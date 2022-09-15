@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fGXoKeiGgpNl3PZJUx/n+6FJUaQcz+pkh4yEGZT+1OttyNlxVJwcabRa9DzHMCKXDt7g300w0k4mqRmXWvHy8Q==",
+  "success": true,
+  "projectFilePath": "E:\\PMAC IDE SVN\\01_Project_Management\\01_07_Project_Case_Study\\PrismDemo\\Prism7.ModuleA\\Prism7.ModuleA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hemant.navarkar\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\hemant.navarkar\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\hemant.navarkar\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

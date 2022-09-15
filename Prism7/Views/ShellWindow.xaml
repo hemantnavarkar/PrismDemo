@@ -1,0 +1,12 @@
+<!-- Master Page -->
+
+<Window x:Class="Prism7.Views.ShellWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:local="clr-namespace:Prism7.Views"
+             Title="Welcome Friendy!">
+             <Grid>
+                <StackPanel prism:RegionManager.RegionName="ContentRegion"/>
+             </Grid>
+</Window>
