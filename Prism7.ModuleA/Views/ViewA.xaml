@@ -1,0 +1,14 @@
+<!-- Master Page -->
+<UserControl x:Class="Prism7.ModuleA.Views.ViewA"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/">
+             <Grid>
+              <TextBlock Text="Hi from ViewA" 
+                         HorizontalAlignment="Center"
+                         VerticalAlignment="Center"
+                         FontSize="48"
+                         Height="500"
+                         Width ="500"/>
+             </Grid>
+</UserControl>

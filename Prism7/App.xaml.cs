@@ -27,7 +27,7 @@ namespace Prism7
         protected override void ConfigureRegionAdapterMappings(RegionAdapterMappings regionAdapterMappings)
         {
             base.ConfigureRegionAdapterMappings(regionAdapterMappings);
-            regionAdapterMappings.RegisterMapping(typeof(StackPanel), Container.Resolve<MyStackPanelRegionAdapter>());
+            // regionAdapterMappings.RegisterMapping(typeof(StackPanel), Container.Resolve<MyStackPanelRegionAdapter>());
         }
 
         protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)

@@ -7,6 +7,6 @@
              xmlns:local="clr-namespace:Prism7.Views"
              Title="Welcome Friendy!">
              <Grid>
-                <StackPanel prism:RegionManager.RegionName="ContentRegion"/>
+                <ContentControl prism:RegionManager.RegionName="ContentRegion"/>
              </Grid>
 </Window>
